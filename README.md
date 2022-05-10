@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @LittleLilac
 - 👀 I’m interested in ... well I'm not quite sure yet
-- 🌱 I’m currently learning ... the ins and outs of basics
+- 🌱 I’m currently learning ... Full-Stack Dovelopment using Python
 - 💞️ I’m looking to collaborate on ... nothing at the moment 
 - 📫 How to reach me ...
 
